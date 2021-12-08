@@ -5,4 +5,8 @@
     - name: Install package GIT
       package:
         name: git
-        state: latest 
+        state: latest
+    - name: Install package golang-myip
+      package:
+        name: go-toolset
+        state: latest
