@@ -10,3 +10,7 @@
       package:
         name: go-toolset
         state: latest
+   
+    - name: Obtention de l'adresse ip
+      command: 
+

@@ -1,0 +1,1 @@
+go build myip.go
